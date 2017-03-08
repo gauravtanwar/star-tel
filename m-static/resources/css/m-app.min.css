@@ -819,7 +819,7 @@ td, th {
   box-sizing: border-box; }
 
 .our-services-container {
-  padding-left: 8%;
+  /* padding-left: 8%;*/
   margin: 8% 0 5% 0;
   /* text-align: center;*/ }
   .our-services-container .services-heading {
@@ -881,6 +881,7 @@ td, th {
   background-color: #FAFAFA;
   text-align: center;
   margin: 4% 0 4% 0;
+  padding-left: 5%;
   /*width: 92%;*/
   /*margin-left: 10%;*/
   /*margin-right: 10%;*/ }
