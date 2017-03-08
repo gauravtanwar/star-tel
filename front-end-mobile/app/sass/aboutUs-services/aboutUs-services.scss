@@ -219,7 +219,7 @@ text-align: center;}
 }
 
 .our-services-container {
-  padding-left: 8%;
+ /* padding-left: 8%;*/
   margin: 8% 0 5% 0;
  /* text-align: center;*/
   .services-heading {
@@ -295,7 +295,7 @@ background-color: $main-color;
   /*width: 100%;*/
   background-color: $base-color;
   text-align: center;
-margin: 4% 0 4% 0;
+margin: 4% 0 4% 4%;
 /*padding-left: 5%;*/
   /*width: 92%;*/
   /*margin-left: 10%;*/
@@ -330,6 +330,7 @@ margin: 4% 0 4% 0;
  /* width: 100%;*/
   background-color: $base-color;
   float: left;
+  margin: 4% 0 4% 4%;
 /* margin: 3% 0 3% 0;
    width: 92%;*/
    text-align: center;
