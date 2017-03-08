@@ -769,7 +769,7 @@ td, th {
 .our-services-container {
   padding-left: 8%;
   margin: 8% 0 5% 0;
-  text-align: center; }
+  /* text-align: center;*/ }
   .our-services-container .services-heading {
     font-size: 3em;
     color: #07d566;
